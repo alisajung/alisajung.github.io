@@ -93,7 +93,7 @@ skills:
       - name: Git, Linux, Windows
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: computer-desktop
       - name: GLSL, Vulkan, OpenGL
         description: ''
         percent: 40
@@ -101,7 +101,7 @@ skills:
       - name: Blender, Katana, Unity
         description: ''
         percent: 40
-        icon: pencil
+        icon: paint-brush
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -112,6 +112,7 @@ skills:
         icon: "custom/icon-flying-disc-custom"
       - name: Music Production & Piano
         description: ''
+        icon: musical-note
       - name: Hiking & Biking
         description: ''
         percent: 60
