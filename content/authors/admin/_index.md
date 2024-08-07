@@ -90,14 +90,18 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Git / GitLab, Linux, Windows
+      - name: Git, Linux, Windows
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Blender, Katana, Unity, GLSL, Vulkan, OpenGL
+      - name: GLSL, Vulkan, OpenGL
         description: ''
         percent: 40
         icon: camera
+      - name: Blender, Katana, Unity
+        description: ''
+        percent: 40
+        icon: pencil
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
