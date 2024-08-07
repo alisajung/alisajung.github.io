@@ -109,7 +109,7 @@ skills:
       - name: Ultimate Frisbee
         description: ''
         percent: 80
-        icon: "custom/icon-flying-disc-custom"
+        icon: "custom/icon-flying-disc-custom2"
       - name: Music Production & Piano
         description: ''
         icon: musical-note
