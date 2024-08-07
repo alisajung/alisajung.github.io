@@ -78,7 +78,7 @@ work:
     company_logo: ''
     date_start: 2023-01-09
     date_end: '2023-06-09'
-    summary:
+    summary: Path Guiding and Regularization in Manuka
 
 
 # Skills
