@@ -121,11 +121,11 @@ skills:
 
 languages:
   - name: German
-    percent: 100
+    #percent: 100
   - name: English
-    percent: 100
+    #percent: 100
   - name: French
-    percent: 20
+    #percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
