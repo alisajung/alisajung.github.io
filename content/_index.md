@@ -53,7 +53,6 @@ sections:
   #  design:
   #    view: article-grid
   #    columns: 2
-  sections:
   - block: resume-experience
     content:
       username: admin
