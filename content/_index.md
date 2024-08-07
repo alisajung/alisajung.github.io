@@ -53,14 +53,6 @@ sections:
   #  design:
   #    view: article-grid
   #    columns: 2
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
   - block: resume-skills
     content:
       title: Skills & Hobbies
@@ -77,6 +69,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   #- block: collection
   #  id: talks
   #  content:
