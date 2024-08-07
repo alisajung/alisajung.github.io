@@ -102,18 +102,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Ultimate Frisbee
         description: ''
         percent: 80
         icon: camera
+      - name: Music Production & Piano
+        description: ''
+      - name: Hiking & Biking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+
 
 languages:
   - name: German
