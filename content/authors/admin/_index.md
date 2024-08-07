@@ -11,7 +11,7 @@ last_name: Jung
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: :movie_camera:
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jung.alisa@gmx.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/github
+#    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/alisa-jung-25b37ab5/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://dblp.org/pid/226/6929.html
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
   - All things rendering
@@ -58,55 +58,29 @@ education:
     date_start: 2017-08-01
     date_end: 2024-05-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Regularization, Fluorescence and Path Guiding for better renders in less time. Supervised by [Prof. Carsten Dachsbacher](https://cg.ivd.kit.edu/staff/prof/dachsbacher/mitarbeiter_dachsbacher.php). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: M.Sc. Computer Science
+    institution: Karlsruhe Institute of Technology
+    date_start: 2015
+    date_end: 2017
+    summary: 
+  - area: B.Sc. Computer Science
+    institution: Karlsruhe Institute of Technology
+    date_start: 2011
+    date_end: 2015
+    summary:
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Visiting Rendering Researcher
+    company_name: WētāFX
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-01-09
+    date_end: '2023-06-09'
+    summary:
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -143,12 +117,12 @@ skills:
         icon: camera
 
 languages:
+  - name: German
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +158,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alisa Jung just finished her PhD with the computer graphics group at Karlsruhe Institute of Technology. Her thesis focused on getting the most out of a renderer under a given time constraint, with tools such as path guiding and regularization. Her research interests also include fluorescence and other spectral effects, materials and volumes. In 2023 she completed an internship with WētāFX working on path guiding and regularization in a production environment.
