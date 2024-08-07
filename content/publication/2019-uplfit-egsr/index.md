@@ -1,19 +1,22 @@
 ---
-title: 'Another example conference paper'
+title: 'Wide Gamut Spectral Upsampling with Fluorescence'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Alexander Wilkie
+  - Johannes Hanika
+  - Wenzel Jakob
+  - Carsten Dachsbacher
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2019-07-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,19 +28,20 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Computer Graphics Forum*
+publication_short: In *CGF*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Given an input RGB tristimulus value, our method automatically provides a mixture of a regular, smooth reflectance spectrum plus a fluorescent part. For highly saturated input colours, the combination yields an improved reconstruction compared to what would be possible relying on a reflectance spectrum alone.
+
 
 tags:
   - Large Language Models
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
