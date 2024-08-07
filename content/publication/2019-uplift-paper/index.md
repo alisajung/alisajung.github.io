@@ -35,9 +35,6 @@ abstract: Physically based spectral rendering has become increasingly important 
 # Summary. An optional shortened abstract.
 summary: Given an input RGB tristimulus value, our method automatically provides a mixture of a regular, smooth reflectance spectrum plus a fluorescent part. For highly saturated input colours, the combination yields an improved reconstruction compared to what would be possible relying on a reflectance spectrum alone.
 
-tags:
-  - ''
-
 # Display this page in the Featured widget?
 featured: false
 
