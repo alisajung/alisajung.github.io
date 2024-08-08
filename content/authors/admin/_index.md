@@ -47,7 +47,7 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - All things rendering
+  - Computer Graphics & Rendering
   - Path Guiding
   - Regularization
   - Spectral Shenanigans
