@@ -93,7 +93,7 @@ work:
     company_name: MTV Karlsruhe
     date_start: 2018-04-01
     summary: Beginner and amateur level teams, tournament and event planning
-  - position: Student dorm voluntary activities
+  - position: Student Dorm Voluntary Activities
     company_name: Hans Dickmann Kolleg
     date_start: 2012-04-01
     date_end: 2016-09-30
