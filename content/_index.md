@@ -60,6 +60,7 @@ sections:
     design:
       show_skill_percentage: false
   - block: collection
+    id: publications
     content:
       title: Publications
       text: ""
