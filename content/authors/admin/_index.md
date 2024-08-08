@@ -89,7 +89,7 @@ work:
     date_start: 2018-04-01
     summary: coaching beginner and amateur level teams, tournament/event planning
   - position: Student dorm activities
-    company_name: Hans Dickmann Kolleg and Hadiko Veranstaltungen e.V.
+    company_name: Hans Dickmann Kolleg, Hadiko Veranstaltungen e.V.
     date_start: 2012-04
     date_start: 2016-09
     summary: Preparing and assisting on dorm's events, various roles in dorm self-government
