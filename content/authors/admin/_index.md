@@ -88,10 +88,11 @@ work:
     company_name: MTV Karlsruhe
     date_start: 2018-04-01
     summary: coaching beginner and amateur level teams, tournament and event planning
-  - position: Student Dorm Activities
-    company_name: MTV Karlsruhe
-    date_start: 2018-04-01
-    summary: coaching beginner and amateur level teams, tournament and event planning
+  - position: Student dorm activities
+    company_name: Hans Dickmann Kolleg
+    date_start: 2012-04-01
+    date_end: 2016-09-30
+    summary: Preparing and assisting on dorm events, various roles in dorm self government
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
