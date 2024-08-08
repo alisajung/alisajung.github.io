@@ -5,14 +5,14 @@ title: 'Improving Spectral Upsampling with Fluorescence'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Lars Koenig
+  - Lars König
   - admin
   - Carsten Dachsbacher
 
 # Author notes (optional)
 author_notes: ''
 
-date: '2013-07-01T00:00:00Z'
+date: '2020-06-29T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
