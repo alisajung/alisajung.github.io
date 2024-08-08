@@ -87,7 +87,7 @@ work:
   - position: Ultimate Frisbee Coach
     company_name: MTV Karlsruhe
     date_start: 2018-04-01
-    summary: Mixed, Women's and Open division, beginner and amateur level teams
+    summary: beginner and amateur level teams, tournament/event planning
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
