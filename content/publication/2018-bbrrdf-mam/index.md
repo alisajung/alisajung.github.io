@@ -25,7 +25,7 @@ publishDate: '2018-07-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *MAM 2018: Eurographics Workshop on Material Appearance Modeling*
+publication: In *MAM 2018 Eurographics Workshop on Material Appearance Modeling*
 publication_short: In *MAM*
 
 abstract: Todo
