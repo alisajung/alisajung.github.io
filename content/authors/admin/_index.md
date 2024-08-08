@@ -92,7 +92,7 @@ work:
     company_name: Hans Dickmann Kolleg and Hadiko Veranstaltungen e.V.
     date_start: 2012-04
     date_start: 2016-09
-    summary: Preparing and assisting on dorm events, various roles in dorm self-government
+    summary: Preparing and assisting on dorm events, various roles in dorm self government
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
