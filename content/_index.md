@@ -19,6 +19,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
       css_class: dark
       background:
         color: black
