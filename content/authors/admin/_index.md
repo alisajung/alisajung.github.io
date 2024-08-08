@@ -57,10 +57,10 @@ education:
     institution: Karlsruhe Institute of Technology
     date_start: 2017-08-01
     date_end: 2024-05-16
-    summary: Regularization, Fluorescence and Path Guiding for better renders in less time. Supervised by [Prof. Carsten Dachsbacher](https://cg.ivd.kit.edu/staff/prof/dachsbacher/mitarbeiter_dachsbacher.php). 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    summary: Regularization, Fluorescence and Path Guiding for better renders in less time. Supervised by Prof. Carsten Dachsbacher. 
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: M.Sc. Computer Science
     institution: Karlsruhe Institute of Technology
     date_start: 2015
