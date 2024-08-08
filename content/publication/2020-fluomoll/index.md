@@ -25,7 +25,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Computer Graphics Forum (Proceedings of Eurographics)*
-publication_short: In *CGF (Proc. EG)*
+publication_short: In *CGF (Proc. of EG)*
 
 abstract: Fluorescent materials can shift energy between wavelengths, thereby creating bright and saturated colors both in natural and artificial materials. However, rendering fluorescence for continuous wavelengths or combined with wavelength dependent path configurations so far has only been feasible using spectral unidirectional methods. We present a regularization-based approach for supporting fluorescence in a spectral bidirectional path tracer. Our algorithm samples camera and light sub-paths with independent wavelengths, and when connecting them mollifies the BSDF at one of the connecting vertices such that it reradiates light across multiple wavelengths. We discuss arising issues such as color bias in early iterations, consistency of the method and MIS weights in the presence of spectral mollification. We demonstrate our method in scenes combining fluorescence and transport phenomena that are difficult to render with unidirectional or spectrally discrete methods. 
 
