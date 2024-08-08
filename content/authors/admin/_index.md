@@ -88,7 +88,10 @@ work:
     company_name: MTV Karlsruhe
     date_start: 2018-04-01
     summary: coaching beginner and amateur level teams, tournament and event planning
-
+  - position: Student Dorm Activities
+    company_name: MTV Karlsruhe
+    date_start: 2018-04-01
+    summary: coaching beginner and amateur level teams, tournament and event planning
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
