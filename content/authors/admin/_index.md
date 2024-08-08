@@ -66,6 +66,11 @@ education:
     date_start: 2015-04-01
     date_end: 2017-06-30
     summary: ''
+  - area: Semester Abroad
+    institution: Cornell University, Ithaca NY
+    date_start: 2016-10-01
+    date_end: 2017-03-31
+    summary: ''
   - area: B.Sc. Computer Science
     institution: Karlsruhe Institute of Technology
     date_start: 2011-10-01
