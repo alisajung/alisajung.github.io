@@ -63,13 +63,13 @@ education:
     #  url: 'https://example.com'
   - area: M.Sc. Computer Science
     institution: Karlsruhe Institute of Technology
-    date_start: 2015
-    date_end: 2017
+    date_start: 2015-04-01
+    date_end: 2017-06-30
     summary: ''
   - area: B.Sc. Computer Science
     institution: Karlsruhe Institute of Technology
-    date_start: 2011
-    date_end: 2015
+    date_start: 2011-10-01
+    date_end: 2015-03-31
     summary: ''
 work:
   - position: Visiting Rendering Researcher
