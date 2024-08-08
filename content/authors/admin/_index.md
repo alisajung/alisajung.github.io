@@ -82,7 +82,7 @@ work:
   - position: Student Assistant
     company_name: Karlsruhe Institute of Technology
     date_start: 2012-10-01
-    date_end: 2015-09-30
+    date_end: 2016-09-30
     summary: Various student assistant jobs, mostly programming (C++, Java) and tutoring (teaching assistance)
 
 
