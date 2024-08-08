@@ -84,16 +84,6 @@ work:
     date_start: 2012-10-01
     date_end: 2016-09-30
     summary: Various student assistant jobs, mostly programming (C++, Java) and tutoring (teaching assistance)
-  - position: Ultimate Frisbee Coach
-    company_name: MTV Karlsruhe
-    date_start: 2018-04
-    date_end: 2024-09-30
-    summary: Women's, mixed and open division, beginner and amateur level teams
-
-
-
-
-
 
 
 # Skills
