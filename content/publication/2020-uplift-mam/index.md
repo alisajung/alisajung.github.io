@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 publication: In *Workshop on Material Appearance Modeling*
 publication_short: In *MAM*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Modern photorealistic rendering simulates spectral behaviour of light. Since many assets are still created in different RGB color spaces, spectral upsampling of the RGB colors to a spectral representation is required to use them in a spectral renderer. Limiting the upsampled spectra to physically valid and natural, i.e. smooth, spectra results in a more realistic image, but decreases the size of the gamut of colors that can be recreated. In order to upsample wide gamut color spaces with colors outside the gamut of physically valid reflectance spectra, a previous approach added fluorescence to create accurate and physically valid representations. We extend this approach to increase the realism and accuarcy while considering memory and computation time. 
 
 # Summary. An optional shortened abstract.
 summary: We improve upon our previous fluorescent spectral uplifting paper with different error metrics for faster convergence and alternative fluorescence parameterizations.
