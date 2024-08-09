@@ -37,12 +37,12 @@ profiles:
 #    url: https://twitter.com/GetResearchDev
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/alisajung
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alisa-jung-25b37ab5/
   - icon: academicons/dblp
     url: https://dblp.org/pid/226/6929.html
+  - icon: brands/github
+    url: https://github.com/alisajung
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
 
