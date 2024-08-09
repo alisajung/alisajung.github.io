@@ -57,7 +57,7 @@ education:
     institution: Karlsruhe Institute of Technology
     date_start: 2017-08-01
     date_end: 2024-05-16
-    summary: Regularization, Fluorescence and Path Guiding for better renders in less time. Supervised by Prof. Carsten Dachsbacher. 
+    summary: 'Thesis: Mollifying Realistic Image Synthesis for Time Constrained Rendering. Regularization, Fluorescence and Path Guiding for better renders in less time. Supervised by Prof. Carsten Dachsbacher.'
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -65,7 +65,7 @@ education:
     institution: Karlsruhe Institute of Technology
     date_start: 2015-04-01
     date_end: 2017-06-30
-    summary: ''
+    summary: 'Thesis: Fluorescence in Bidirectional Rendering. Focus on Computer Graphics and Theoretical Foundations.'
   - area: Semester Abroad
     institution: Cornell University, Ithaca NY
     date_start: 2016-10-01
@@ -75,7 +75,7 @@ education:
     institution: Karlsruhe Institute of Technology
     date_start: 2011-10-01
     date_end: 2015-03-31
-    summary: ''
+    summary: 'Thesis: Irradiance Importance Sampling'
 work:
   - position: Visiting Rendering Researcher
     company_name: WētāFX
