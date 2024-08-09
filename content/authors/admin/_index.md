@@ -65,7 +65,7 @@ education:
     institution: Karlsruhe Institute of Technology
     date_start: 2015-04-01
     date_end: 2017-06-30
-    summary: 'Thesis: "Fluorescence in Bidirectional Rendering" with the computer graphics group. Focus on Computer Graphics and Theoretical Foundations.'
+    summary: 'Focus on Computer Graphics and Theoretical Foundations. Thesis: "Fluorescence in Bidirectional Rendering" with the computer graphics group.'
   - area: Semester Abroad
     institution: Cornell University, Ithaca NY
     date_start: 2016-10-01
@@ -75,7 +75,7 @@ education:
     institution: Karlsruhe Institute of Technology
     date_start: 2011-10-01
     date_end: 2015-03-31
-    summary: 'Thesis: "Irradiance Importance Sampling" with the computer graphics group'
+    summary: 'Thesis: "Irradiance Importance Sampling" with the computer graphics group.'
 work:
   - position: Visiting Rendering Researcher
     company_name: WētāFX
