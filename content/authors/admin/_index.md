@@ -41,7 +41,7 @@ profiles:
     url: https://github.com/alisajung
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alisa-jung-25b37ab5/
-  - icon: academicons/google-scholar
+  - icon: academicons/dblp
     url: https://dblp.org/pid/226/6929.html
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
