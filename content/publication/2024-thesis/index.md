@@ -23,7 +23,7 @@ publication_types: ['thesis']
 
 # Publication name and optional abbreviated publication name.
 publication: Karlsruher Institut für Technologie (KIT)
-publication_short: Karlsruher Institut für Technologie (KIT)
+publication_short: KITopen
 
 abstract: ''
 
