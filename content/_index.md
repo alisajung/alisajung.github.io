@@ -18,6 +18,9 @@ sections:
       button:
         text: Download CV
         url: uploads/CV_Alisa_Jung.pdf
+      button:
+        text: Thesis
+        url: uploads/CV_Alisa_Jung.pdf 
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
