@@ -20,7 +20,7 @@ sections:
         url: uploads/CV_Alisa_Jung.pdf
       button:
         text: Thesis
-        url: uploads/CV_Alisa_Jung.pdf 
+        url: https://doi.org/10.5445/IR/1000174277 
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
