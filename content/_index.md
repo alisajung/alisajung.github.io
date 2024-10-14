@@ -14,16 +14,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      button:
       # Show a call-to-action button under your biography? (optional)
-      buttons:
-        - text: Download CV
-          icon: academicons/arxiv
-          url: uploads/CV_Alisa_Jung.pdf
-        - text: Thesis
-          icon: brands/linkedin
-          url: https://doi.org/10.5445/IR/1000174277
-        #text: Download CV
-        #url: uploads/CV_Alisa_Jung.pdf
+        text: Download CV
+        url: uploads/CV_Alisa_Jung.pdf
               #button:
       #  text: Thesis
       #  url: https://doi.org/10.5445/IR/1000174277 
