@@ -15,12 +15,11 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/CV_Alisa_Jung.pdf
-      button:
-        text: Thesis
-        url: https://doi.org/10.5445/IR/1000174277 
+      buttons:
+        - title: Download CV
+          url: uploads/CV_Alisa_Jung.pdf
+        - title: Thesis
+          url: https://doi.org/10.5445/IR/1000174277 
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
