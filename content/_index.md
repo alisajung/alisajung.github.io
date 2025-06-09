@@ -17,7 +17,7 @@ sections:
       button:
       # Show a call-to-action button under your biography? (optional)
         text: Download CV
-        url: uploads/CV_Alisa_Jung.pdf
+        url: uploads/CV_Alisa_Jung_2025.pdf
               #button:
       #  text: Thesis
       #  url: https://doi.org/10.5445/IR/1000174277 
