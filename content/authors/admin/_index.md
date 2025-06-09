@@ -77,6 +77,13 @@ education:
     date_end: 2015-03-31
     summary: 'Thesis: "Irradiance Importance Sampling" with the computer graphics group.'
 work:
+  - position: Software Engineer
+    company_name: CAS Software AG
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-02-01
+    date_end: 'now'
+    summary: Web services and business process automation
   - position: Visiting Rendering Researcher
     company_name: WētāFX
     company_url: ''
