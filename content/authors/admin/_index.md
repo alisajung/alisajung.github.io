@@ -57,7 +57,7 @@ education:
     institution: Karlsruhe Institute of Technology
     date_start: 2017-08-01
     date_end: 2024-05-16
-    summary: 'Thesis: "Mollifying Realistic Image Synthesis for Time Constrained Rendering". Regularization, Fluorescence and Path Guiding for better renders in less time. Supervised by Prof. Carsten Dachsbacher.'
+    summary: 'Thesis: "Mollifying Realistic Image Synthesis for Time Constrained Rendering". Regularization, Fluorescence and Path Guiding for better renders in less time. Supervised by Prof. Carsten Dachsbacher. GI Dissertation Award Nominee.'
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
